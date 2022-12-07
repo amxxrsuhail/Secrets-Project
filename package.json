@@ -1,0 +1,24 @@
+{
+  "name": "secrets-project",
+  "version": "1.0.0",
+  "description": "A project to get an idea about authentication and security",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amxxrsuhail/Secrets-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amxxrsuhail/Secrets-Project/issues"
+  },
+  "homepage": "https://github.com/amxxrsuhail/Secrets-Project#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}
