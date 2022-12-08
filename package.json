@@ -19,6 +19,8 @@
   "homepage": "https://github.com/amxxrsuhail/Secrets-Project#readme",
   "dependencies": {
     "ejs": "^3.1.8",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mongoose": "^6.7.4",
+    "mongoose-encryption": "^2.1.2"
   }
 }
